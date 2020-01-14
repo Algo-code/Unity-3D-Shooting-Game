@@ -1,0 +1,2 @@
+1.添加除Tools.cs外的两个脚本到敌人（模型快点找啊）预设上，Resources文件夹放Assets目录下
+2.ShootAndBlood.cs中贴图在Resources/Textures/blood_black或blood_red
